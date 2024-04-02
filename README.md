@@ -1,7 +1,6 @@
 <img width="40" alt="picker_48" src="https://github.com/nikhil-x24/chromeExtension/assets/94430005/69f50a6a-7875-48d6-861d-5943101f7b98">    **ColorPicker (Google Chrome Extension)**      
 
-[Download Link](/[chromeExtension.zip](https://github.com/nikhil-x24/chromeExtension/blob/master/chromeExtension.zip))
-[Download Link](/https://github.com/nikhil-x24/chromeExtension/blob/master/chromeExtension.zip)
+[Download Link](/https://github.com/nikhil-x24/chromeExtension)
 ---
 ## Follow Below Steps to use this Extension
 
