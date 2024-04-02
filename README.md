@@ -5,6 +5,10 @@
     <a href="https://github.com/nikhil-x24/chromeExtension/blob/master/chromeExtension.zip" target="blank">Download Link</a>
 </p>
 
+## Demo
+![ScreenRecording-ezgif com-video-to-gif-converter](https://github.com/nikhil-x24/chromeExtension/assets/94430005/83650b8a-8ae6-4819-b65a-245eb8492bf2)
+
+
 ## Follow Below Steps to use this Extension
 
 1. Download .zip  and extract file
