@@ -15,22 +15,26 @@
 3. Go to **settings**
 4. Select **Extensions** tab
 5. Turn on **Developer mode**
-    ![Screenshot (27)](https://user-images.githubusercontent.com/82399781/210152293-c8168f7b-4699-4785-990a-a989d56834f7.jpg)
-6. Click on **Load unpacked**
-    ![Screenshot (28)](https://user-images.githubusercontent.com/82399781/210152310-757b0ed6-6bad-4728-bb0c-375a41d45985.jpg)
-7. Select **color-picker-chrome-extension** folder
-    ![download (1)](https://user-images.githubusercontent.com/82399781/210152496-75f7e665-040e-4d27-a2cf-00f27392c504.png)
-8. Enable This Extension (if Disabled).
-9. Now open any **tab other than google setting/home page**.
-10. Now click on **Extension icon** and select **color picker**
-11. Now press on **pick color**, and move cursor and *click anywhere* on **browser or in desktop** anywhere to pick color.
+   
+    <img width="1470" alt="Screenshot 2024-04-02 at 6 09 52 PM" src="https://github.com/nikhil-x24/chromeExtension/assets/94430005/d4b548be-9372-447f-9271-caf12d1cd7e6">
 
-12. You will get HexCode of the choosed color.
-13. paste anywhere to use the HexCode (already copied to clipboard).
+7. Click on **Load unpacked**
+   
+    <img width="1470" alt="Screenshot 2024-04-02 at 6 10 12 PM" src="https://github.com/nikhil-x24/chromeExtension/assets/94430005/3d738cc5-c9d5-4d64-94d7-468d795a6831">
+9. Select **color-picker-chrome-extension** folder
+    <img width="1470" alt="Screenshot 2024-04-02 at 6 10 53 PM" src="https://github.com/nikhil-x24/chromeExtension/assets/94430005/09ee925f-4fb0-4c09-9d43-7c237852d46b">
 
-14. I Hope this will help you to **get specific Color HexCode** from anywhere you want.
+10. Enable This Extension (if Disabled).
+11. Now open any **tab other than google setting/home page**.
+12. Now click on **Extension icon** and select **color picker**
+13. Now press on **pick color**, and move cursor and *click anywhere* on **browser or in desktop** anywhere to pick color.
 
-15. Always ready for any kind of **Guidance/support and Help.**
+14. You will get HexCode of the choosed color.
+15. paste anywhere to use the HexCode (already copied to clipboard).
+
+16. I Hope this will help you to **get specific Color HexCode** from anywhere you want.
+
+17. Always ready for any kind of **Guidance/support and Help.**
 
 
 **Thanks for Reading and Using this**.
