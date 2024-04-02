@@ -3,7 +3,7 @@
 ## Follow Below Steps to use this Extension
 
 1. Download .zip  and extract file
-[Zip Download](/Color_picker_extension.zip) or Clone repository to your local system.
+[Zip Download] or Clone repository to your local system.
 
     ```
     git clone https://github.com/nikhil-x24/Chorme-Extension.git
