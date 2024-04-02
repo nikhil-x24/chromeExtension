@@ -1,0 +1,23 @@
+{
+    "name": "Color-Picker",
+    "description": "This Color Picker Chrome Extension is a powerful tool that brings the world of colors to your fingertips. Whether you're a designer, developer.",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "background": {
+        "service_worker": "background.js"
+    },
+    "permissions": [
+        "storage",
+        "activeTab",
+        "scripting"
+    ],
+    "options_page": "options.html",
+    "action": {
+        "default_popup": "popup.html"
+    },
+    "icons": {
+        "16": "/images/picker_48.png",
+        "32": "/images/picker_48.png",
+        "48": "/images/picker_48.png"
+    }
+}
