@@ -20,7 +20,7 @@
 7. Click on **Load unpacked**
    
     <img width="1470" alt="Screenshot 2024-04-02 at 6 10 12 PM" src="https://github.com/nikhil-x24/chromeExtension/assets/94430005/3d738cc5-c9d5-4d64-94d7-468d795a6831">
-9. Select **color-picker-chrome-extension** folder
+9. Select **chromeExtension** folder
     
     <img width="1470" alt="Screenshot 2024-04-02 at 6 10 53 PM" src="https://github.com/nikhil-x24/chromeExtension/assets/94430005/09ee925f-4fb0-4c09-9d43-7c237852d46b">
 11. Enable This Extension (if Disabled).
